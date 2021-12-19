@@ -30,6 +30,8 @@ If you want to make it more realistic,after build it , upload to a discord serve
 
 ![photo3](https://user-images.githubusercontent.com/61086421/146680969-04c56730-b026-4815-90c2-09311aef28ec.png)
 
+The link looks soo realistic :p
+
 To look at the data's, type requestbin.net/r/RequestbinAddress?inspect to take the username/password data.
 
 The program send post requests to your requestbin adress.(The post requests includes username/password data)  
