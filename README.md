@@ -29,3 +29,5 @@ To look at the data's, type requestbin.net/r/RequestbinAddress?inspect to take t
 The program send post requests to your requestbin adress.(The post requests includes username/password data)  
 
 Requestbins have a limit (2 day,20 request max. for the "requestbin.net")
+
+Note:build the sln file then take the exe file from debug folder.
