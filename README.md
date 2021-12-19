@@ -6,7 +6,7 @@ Fake discord updater for phising attack
 
 ![image2](https://user-images.githubusercontent.com/61086421/142611026-4bb84a27-5e0f-4af6-93ea-fcfa2e407563.png)
 
-!!!! I have no responsibility for the use of the program  !!!!
+I have no responsibility for the use of the program.
 
 This is a Discord fake update phising tool.
 
